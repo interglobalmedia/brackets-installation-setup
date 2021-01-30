@@ -1,0 +1,21 @@
+{
+  "name": "brackets-installation-setup",
+  "version": "1.0.0",
+  "description": "How to install and set up the Brackets code editor",
+  "main": "index.js",
+  "scripts": {
+    "slides": "npx reveal-md brackets-installation-setup.md",
+    "customcss": "npx reveal-md brackets-installation-setup.md --css custom.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interglobalmedia/brackets-installation-setup.git"
+  },
+  "author": "Maria D. Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interglobalmedia/brackets-installation-setup/issues"
+  },
+  "homepage": "https://github.com/interglobalmedia/brackets-installation-setup#readme",
+  "devDependencies": {}
+}
