@@ -218,11 +218,22 @@ And ***that*** was ***it***!
 ---
 
 <section class="section">
+    <h2 class="sentence">Using the Brackets Notes extension</h2>
+    
+I made a podcast and created a transcript in the form of a post on my [interglobalmedianetwork.com](https://www.interglobalmedianetwork.com/) web site. To read the post and follow the steps indicated there, please visit [Using the Notes Extension In Brackets](https://www.interglobalmedianetwork.com/blog/2021-02-16-using-the-notes-extension-in-brackets/) on [interglobalmedianetwork.com](https://www.interglobalmedianetwork.com/).
+
+</section>
+
+---
+
+<section class="section">
     <h2 class="sentence">Related Resources</h2>
     
 + [Downloading and Installing Cyberduck: Exavault](https://www.exavault.com/docs/ftp-clients/cyberduck/00-introduction)
 
 + [Google Chrome and the Brackets Live Preview extension: Maria D. Campbell](https://www.interglobalmedianetwork.com/blog/2021-02-06-google-chrome-and-the-brackets-live-preview-extension/)
+
++ [Using the Notes Extension In Brackets](https://www.interglobalmedianetwork.com/blog/2021-02-16-using-the-notes-extension-in-brackets/)
 
 + [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
